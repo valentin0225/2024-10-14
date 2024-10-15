@@ -3,8 +3,10 @@ body {
 }
 
 #main {
-    width:700px ;
+    width: 725px ;
     margin: auto;
     border: 2px solid #678;
     padding: 20px;
+    
+
 }
